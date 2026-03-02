@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@eslint/eslintrc": "^3.3.3",
+    "@eslint/eslintrc": "^3.3.4",
     "@tailwindcss/postcss": "^4.1.18",
     "next": "^16.1.4",
     "react": "^19.2.3",
